@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\MenusContra\MenusContra\bin\Debug\MenusContra.exe.config
+C:\Users\usuario\source\repos\MenusContra\MenusContra\bin\Debug\MenusContra.exe
+C:\Users\usuario\source\repos\MenusContra\MenusContra\bin\Debug\MenusContra.pdb
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.Form1.resources
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.Properties.Resources.resources
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.exe
+C:\Users\usuario\source\repos\MenusContra\MenusContra\obj\Debug\MenusContra.pdb

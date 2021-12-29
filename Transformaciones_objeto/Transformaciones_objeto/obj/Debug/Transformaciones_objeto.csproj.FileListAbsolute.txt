@@ -1,0 +1,15 @@
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\bin\Debug\Transformaciones_objeto.exe.config
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\bin\Debug\Transformaciones_objeto.exe
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\bin\Debug\Transformaciones_objeto.pdb
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto_MarkupCompile.cache
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto_MarkupCompile.lref
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.g.resources
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.Properties.Resources.resources
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.exe
+C:\Users\estel\source\repos\Transformaciones_objeto\Transformaciones_objeto\obj\Debug\Transformaciones_objeto.pdb

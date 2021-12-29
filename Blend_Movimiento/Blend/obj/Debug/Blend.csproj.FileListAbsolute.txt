@@ -1,0 +1,15 @@
+C:\Users\estel\source\repos\Blend\Blend\bin\Debug\Blend.exe.config
+C:\Users\estel\source\repos\Blend\Blend\bin\Debug\Blend.exe
+C:\Users\estel\source\repos\Blend\Blend\bin\Debug\Blend.pdb
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend_MarkupCompile.cache
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend_MarkupCompile.lref
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.g.resources
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.Properties.Resources.resources
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.exe
+C:\Users\estel\source\repos\Blend\Blend\obj\Debug\Blend.pdb

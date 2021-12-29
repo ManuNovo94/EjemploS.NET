@@ -1,0 +1,14 @@
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\bin\Debug\Estilos_botones_etiquetas.exe.config
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\bin\Debug\Estilos_botones_etiquetas.exe
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\bin\Debug\Estilos_botones_etiquetas.pdb
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas_MarkupCompile.cache
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.g.resources
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.Properties.Resources.resources
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.exe
+C:\Users\estel\source\repos\Estilos_botones_etiquetas\Estilos_botones_etiquetas\obj\Debug\Estilos_botones_etiquetas.pdb

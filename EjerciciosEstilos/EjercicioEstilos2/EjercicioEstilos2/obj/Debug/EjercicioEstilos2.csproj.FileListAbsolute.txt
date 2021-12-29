@@ -1,0 +1,13 @@
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\bin\Debug\EjercicioEstilos2.exe.config
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\bin\Debug\EjercicioEstilos2.exe
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\bin\Debug\EjercicioEstilos2.pdb
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2_MarkupCompile.cache
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2.g.resources
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2.Properties.Resources.resources
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2.exe
+C:\Users\estel\source\repos\EjercicioEstilos2\EjercicioEstilos2\obj\Debug\EjercicioEstilos2.pdb

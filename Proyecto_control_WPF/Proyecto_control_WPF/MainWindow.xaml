@@ -1,0 +1,18 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_control_WPF"
+        xmlns:Control_contacto="clr-namespace:Control_contacto;assembly=Control_contacto" x:Class="Proyecto_control_WPF.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Control_contacto:UserControl2 x:Name="contacto" HorizontalAlignment="Left" Height="119" Margin="223,77,0,0" VerticalAlignment="Top" Width="252" Loaded="contacto_Loaded"/>
+        <RadioButton x:Name="almacen" Content="Almacen" HorizontalAlignment="Left" Margin="97,262,0,0" VerticalAlignment="Top" Height="43" Width="117" FontWeight="Bold" FontSize="16" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="oficina" Content="Oficina" HorizontalAlignment="Left" Margin="290,262,0,0" VerticalAlignment="Top" Height="43" Width="117" FontWeight="Bold" FontSize="16" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="tienda" Content="Tienda" HorizontalAlignment="Left" Margin="517,262,0,0" VerticalAlignment="Top" Height="43" Width="117" FontWeight="Bold" FontSize="16" Checked="RadioButton_Checked"/>
+
+    </Grid>
+</Window>

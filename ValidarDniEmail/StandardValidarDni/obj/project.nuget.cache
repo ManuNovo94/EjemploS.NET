@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aoET5vQHGMmaJdPawOcbdBBj1cj5y8iZ3Zw3hl2RU/mDWbA7pzZj/WWOMeZegpt4fjSCqyBpAVxlrOfM/4SJPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\estel\\source\\repos\\TEMA3\\ValidarDniEmail\\StandardValidarDni\\Validar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\estel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\estel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

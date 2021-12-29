@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\bin\Debug\VentanasDialogo.exe.config
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\bin\Debug\VentanasDialogo.exe
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\bin\Debug\VentanasDialogo.pdb
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.Form1.resources
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.Properties.Resources.resources
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.exe
+C:\Users\usuario\source\repos\VentanasDialogo\VentanasDialogo\obj\Debug\VentanasDialogo.pdb

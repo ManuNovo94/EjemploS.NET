@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc version="1.0">
+   <tocitem text="Tarea JavaHelp" target="aplicacion">
+      <tocitem text="Como actualizar WhatsApp" target="actualizar"/>
+      <tocitem text="Como inicar o cerrar sesion" target="sesion"/>
+      <tocitem text="Como editar tu perfil" target="perfil"/>
+   </tocitem>
+</toc>

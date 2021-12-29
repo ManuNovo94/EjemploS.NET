@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Búsqueda</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div style="padding: 10px">
+            <h1>Búsqueda</h1>
+            <br/>
+            <p>Otra pestaña opcional de JavaHelp que podemos colocar, es la de búsqueda. 
+                Poniendo esta pestaña, nos saldrá una caja de búsqueda por la que 
+                podremos buscar palabras dentro de la ayuda.</p>
+            <p>Para esta ventana no necesitamos crear a mano ningún fichero especial. 
+                Lo que sí necesitamos es ejecutar una de las herramientas que viene 
+                con JavaHelp. Esta herramienta se llama jhindexer.jar y lo que hace 
+                es revisar nuestros ficheros html de ayuda y generar una pequeña base 
+                de datos que sirva para hacer las búsquedas más rápidas y eficientes. 
+                Si más adelante tocamos los ficheros html, debemos volver a ejecutar 
+                esta herramienta.</p>
+            <br/>
+            <div style="background-color: #f0f0f0; padding: 5px 15px">
+                <p>$ cd /PATH_PROYECTO/help </p>
+                <p>$ java -jar /PATH_JAVAHELP/bin/jhindexer.jar html</p>
+            </div>
+        </div>
+    </body>
+</html>

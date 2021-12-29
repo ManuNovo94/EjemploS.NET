@@ -1,0 +1,14 @@
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\bin\Debug\EjercicioEstilos.exe.config
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\bin\Debug\EjercicioEstilos.exe
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\bin\Debug\EjercicioEstilos.pdb
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos_MarkupCompile.cache
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.g.resources
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.Properties.Resources.resources
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.exe
+C:\Users\estel\source\repos\EjercicioEstilos\EjercicioEstilos\obj\Debug\EjercicioEstilos.pdb

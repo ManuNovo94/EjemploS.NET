@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Código Java</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div style="padding: 10px">
+            <h1>Código Java</h1>
+            <br/>
+            <p>En el código java de nuestro proyecto deberemos de añadir unas lineas 
+                para que se muestre nuestra ventana de ayuda.</p>
+            <p>Para ello, añadiremos las siguentes lineas:</p>
+            <div style="background-color: #f0f0f0; padding: 1px 15px">
+                <p style="color: blue">// Carga el fichero de ayuda</p>
+                <p>File fichero = new File("./help/help_set.hs");</p>
+                <p>URL hsURL = fichero.toURI().toURL();</p>
+
+                <p style="color: blue">// Crea el HelpSet y el HelpBroker</p>
+                <p>HelpSet helpset = new HelpSet(getClass().getClassLoader(), hsURL);</p>
+                <p>HelpBroker hb = helpset.createHelpBroker();</p>
+
+                <p style="color: blue">// Pone ayuda al botón y a F1 en la ventana.</p>
+                <p>hb.enableHelpOnButton(botonMuestraAyuda, "aplicacion", helpset);</p>
+                <p>hb.enableHelpKey(principal.getContentPane(), "aplicacion",helpset);</p>
+            </div>
+            <br/>
+            <p></p>
+        </div>
+    </body>
+</html>

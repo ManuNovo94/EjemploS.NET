@@ -1,0 +1,103 @@
+﻿<Window x:Class="EjercicioEstilos2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="440" Width="686.591">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="ColorNormal" StartPoint="0,0" EndPoint="0,1">
+            <GradientBrush.GradientStops>
+                <GradientStopCollection>
+                    <GradientStop Color="#FFF" Offset="0.0"/>
+                    <GradientStop Color="#CCC" Offset="1.0"/>
+                </GradientStopCollection>
+            </GradientBrush.GradientStops>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="ColorDeBordeNormal" StartPoint="0,0" EndPoint="0,1">
+            <GradientBrush.GradientStops>
+                <GradientStopCollection>
+                    <GradientStop Color="#CCC" Offset="0.0"/>
+                    <GradientStop Color="#444" Offset="1.0"/>
+                </GradientStopCollection>
+            </GradientBrush.GradientStops>
+        </LinearGradientBrush>
+
+        <Style x:Key="EstiloEjemplo" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Border" 
+                                CornerRadius="40"
+                                BorderThickness="1"
+                                Width="120"
+                                Height="60"
+                                Background="{StaticResource ColorNormal}"
+                                BorderBrush="Black" >
+                            <ContentPresenter
+                                Margin="2"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                RecognizesAccessKey="True"/>
+
+                            <Border.Effect>
+                                <DropShadowEffect/>
+                            </Border.Effect>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter TargetName="Border" Property="Background" >
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientBrush.GradientStops>
+                                                <GradientStopCollection>
+                                                    <GradientStop Color="#FFF" Offset="0.0"/>
+                                                    <GradientStop Color="#AAA" Offset="1.0"/>
+                                                </GradientStopCollection>
+                                            </GradientBrush.GradientStops>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter TargetName="Border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientBrush.GradientStops>
+                                                <GradientStopCollection>
+                                                    <GradientStop Color="#BBB" Offset="0.0"/>
+                                                    <GradientStop Color="#EEE" Offset="0.1"/>
+                                                    <GradientStop Color="#EEE" Offset="0.9"/>
+                                                    <GradientStop Color="#FFF" Offset="1.0"/>
+                                                </GradientStopCollection>
+                                            </GradientBrush.GradientStops>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+
+                                <Setter TargetName="Border" Property="BorderBrush">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientBrush.GradientStops>
+                                                <GradientStopCollection>
+                                                    <GradientStop Color="#CCC" Offset="0.0"/>
+                                                    <GradientStop Color="#444" Offset="1.0"/>
+                                                </GradientStopCollection>
+                                            </GradientBrush.GradientStops>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button Style="{StaticResource EstiloEjemplo}" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Inicio" Margin="281,42,260,299" Height="68" Width="138"></Button>
+        <Button Style="{StaticResource EstiloEjemplo}" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Participantes" Margin="281,110,260,231" Height="68" Width="138"/>
+        <Button Style="{StaticResource EstiloEjemplo}" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Quienes somos" Margin="281,178,260,163" Height="68" Width="138"/>
+        <Button Style="{StaticResource EstiloEjemplo}" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Donde estamos" Margin="281,246,260,95" Height="68" Width="138"/>
+        <Button Style="{StaticResource EstiloEjemplo}" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Contacto" Margin="281,314,260,27" Height="68" Width="138"/>
+    </Grid>
+</Window>

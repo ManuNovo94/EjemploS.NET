@@ -1,0 +1,39 @@
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.exe.config
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.exe
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.pdb
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\bin\Debug\StandardValidarDni.dll
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\bin\Debug\StandardValidarDni.pdb
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csprojAssemblyReference.cache
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.Form1.resources
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.Properties.Resources.resources
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.GenerateResource.cache
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.CoreCompileInputs.cache
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.CopyComplete
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.exe
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.pdb
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.exe.config
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.exe
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.pdb
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\StandardValidarDni.dll
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\StandardValidarDni.pdb
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csprojAssemblyReference.cache
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.Form1.resources
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.Properties.Resources.resources
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.GenerateResource.cache
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.CoreCompileInputs.cache
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.CopyComplete
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.exe
+C:\Users\estel\Desktop\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.pdb
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.exe.config
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.exe
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\proyectoValidarDniEmail.pdb
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\StandardValidarDni.dll
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\bin\Debug\StandardValidarDni.pdb
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.Form1.resources
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.Properties.Resources.resources
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.csproj.CopyComplete
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.exe
+C:\Users\estel\source\repos\TEMA3\ValidarDniEmail\proyectoValidarDniEmail\obj\Debug\proyectoValidarDniEmail.pdb

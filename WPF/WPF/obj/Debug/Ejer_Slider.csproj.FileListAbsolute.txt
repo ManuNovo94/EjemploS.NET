@@ -1,0 +1,15 @@
+C:\Users\estel\source\repos\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\estel\source\repos\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\estel\source\repos\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\Ejer_Slider.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\Ejer_Slider.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\Ejer_Slider.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF.pdb

@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\bin\Debug\EjercicioListas.exe.config
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\bin\Debug\EjercicioListas.exe
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\bin\Debug\EjercicioListas.pdb
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.Form1.resources
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.Properties.Resources.resources
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.exe
+C:\Users\usuario\source\repos\EjercicioListas\EjercicioListas\obj\Debug\EjercicioListas.pdb

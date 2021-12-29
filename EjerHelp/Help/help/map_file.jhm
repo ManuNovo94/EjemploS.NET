@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
+"http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="1.0">
+    <mapID target="aplicacion" url="html/index.html" />
+    <mapID target="Como actualizar WhatsApp" url="html/pagina1.html" />
+    <mapID target="Como inicar o cerrar sesion" url="html/pagina2.html" />
+    <mapID target="Como editar tu perfil" url="html/pagina3.html" />
+  
+</map>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="EjercicioEstilos.MainWindow"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="485" Width="715.227" Background="White" >
+    <Window.Resources>
+        <LinearGradientBrush x:Key="ColorBoton" StartPoint="0,0" EndPoint="0,1">
+            <GradientBrush.GradientStops>
+                <GradientStopCollection>
+                    <GradientStop Color="#FFF" Offset="0.0"/>
+                    <GradientStop Color="BlueViolet"  Offset="1.0"/>
+                </GradientStopCollection>
+            </GradientBrush.GradientStops>
+        </LinearGradientBrush>
+
+        <Style x:Name="Button" TargetType="Button" >
+            <Setter Property="Background"  Value="{StaticResource ColorBoton}" />
+            <Setter Property="BorderBrush" Value="White"/>
+            <Setter Property="Foreground"  Value="White"/>
+            <Setter Property="FontFamily"  Value="Arial"/>
+            <Setter Property="FontWeight"  Value="Bold"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="106*"/>
+            <ColumnDefinition Width="71*"/>
+        </Grid.ColumnDefinitions>
+        <Button HorizontalAlignment="Center" VerticalAlignment="Center" Content="Inicio" Margin="293,91,20.5,331" Height="32" Width="110"></Button>
+        <Button Content="Participantes" HorizontalAlignment="Left" Margin="293,128,0,0" VerticalAlignment="Top" Width="110" Height="30"/>
+        <Button Content="Quienes somos" HorizontalAlignment="Left" Margin="293,163,0,0" VerticalAlignment="Top" Width="110" Height="30"/>
+        <Button Content="Donde estamos" HorizontalAlignment="Left" Margin="293,198,0,0" VerticalAlignment="Top" Width="110" Height="30"/>
+        <Button Content="Contacto" HorizontalAlignment="Left" Margin="293,233,0,0" VerticalAlignment="Top" Width="110" Height="30"/>
+    </Grid>
+</Window>

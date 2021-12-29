@@ -1,0 +1,20 @@
+﻿<Window x:Class="Ejer_Slider_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejer_Slider_Binding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="___Sin_nombre_">
+        <Rectangle x:Name="rectangulo" Fill="#FF2D2DEE" HorizontalAlignment="Left" Height="{Binding ElementName=altura, Path=Value}" Margin="231,54,0,0" Stroke="Black" VerticalAlignment="Top" Width="{Binding ElementName=anchura, Path=Value }" Opacity="{Binding ElementName=opacidad, Path=Value }"/>
+        <Slider x:Name="altura" HorizontalAlignment="Left" Margin="68,182,0,0" VerticalAlignment="Top" Height="178" Width="32" Orientation="Vertical" Maximum="143" Minimum="94"/>
+        <Slider x:Name="opacidad" HorizontalAlignment="Left" Height="30" Margin="231,229,0,0" VerticalAlignment="Top" Width="338" Maximum="1"/>
+        <Slider x:Name="anchura" HorizontalAlignment="Left" Height="30" Margin="231,330,0,0" VerticalAlignment="Top" Width="338" Maximum="411" Minimum="250"/>
+        <Label Content="Opacidad" HorizontalAlignment="Left" Height="27" Margin="231,279,0,0" VerticalAlignment="Top" Width="193"/>
+        <Label Content="Anchura" HorizontalAlignment="Left" Height="24" Margin="231,365,0,0" VerticalAlignment="Top" Width="171"/>
+        <Label Content="Altura" HorizontalAlignment="Left" Height="27" Margin="68,371,0,0" VerticalAlignment="Top" Width="63"/>
+        
+           
+    </Grid>
+</Window>

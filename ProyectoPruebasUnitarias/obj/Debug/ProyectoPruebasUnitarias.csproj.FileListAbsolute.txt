@@ -1,0 +1,14 @@
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\bin\Debug\ProyectoPruebasUnitarias.exe.config
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\bin\Debug\ProyectoPruebasUnitarias.exe
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\bin\Debug\ProyectoPruebasUnitarias.pdb
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.csprojAssemblyReference.cache
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.exe
+C:\Users\Toni\source\repos\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.pdb
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\bin\Debug\ProyectoPruebasUnitarias.exe.config
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\bin\Debug\ProyectoPruebasUnitarias.exe
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\bin\Debug\ProyectoPruebasUnitarias.pdb
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.csprojAssemblyReference.cache
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.exe
+C:\Users\rafac\Desktop\Testing\ProyectoPruebasUnitarias\ProyectoPruebasUnitarias\obj\Debug\ProyectoPruebasUnitarias.pdb

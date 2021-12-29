@@ -1,0 +1,9 @@
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control mesa.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control_mesa.control_mesa.resources
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control_mesa.Properties.Resources.resources
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control mesa.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control mesa.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Control mesa\Control mesa\bin\Debug\Control mesa.dll
+C:\Users\estel\source\repos\Control mesa\Control mesa\bin\Debug\Control mesa.pdb
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control mesa.dll
+C:\Users\estel\source\repos\Control mesa\Control mesa\obj\Debug\Control mesa.pdb

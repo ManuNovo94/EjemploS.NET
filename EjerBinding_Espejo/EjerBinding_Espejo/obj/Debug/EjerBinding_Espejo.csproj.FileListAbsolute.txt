@@ -1,0 +1,15 @@
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\bin\Debug\EjerBinding_Espejo.exe.config
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\bin\Debug\EjerBinding_Espejo.exe
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\bin\Debug\EjerBinding_Espejo.pdb
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\MainWindow.g.cs
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo_MarkupCompile.cache
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo_MarkupCompile.lref
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\MainWindow.baml
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.g.resources
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.Properties.Resources.resources
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.exe
+C:\Users\estel\source\repos\EjerBinding_Espejo\EjerBinding_Espejo\obj\Debug\EjerBinding_Espejo.pdb

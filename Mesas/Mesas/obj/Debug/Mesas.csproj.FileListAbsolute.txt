@@ -1,0 +1,13 @@
+C:\Users\estel\source\repos\Mesas\Mesas\bin\Debug\Mesas.exe.config
+C:\Users\estel\source\repos\Mesas\Mesas\bin\Debug\Mesas.exe
+C:\Users\estel\source\repos\Mesas\Mesas\bin\Debug\Mesas.pdb
+C:\Users\estel\source\repos\Mesas\Mesas\bin\Debug\Control mesa.dll
+C:\Users\estel\source\repos\Mesas\Mesas\bin\Debug\Control mesa.pdb
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.Form1.resources
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.Properties.Resources.resources
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.csproj.GenerateResource.cache
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.csproj.CopyComplete
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.exe
+C:\Users\estel\source\repos\Mesas\Mesas\obj\Debug\Mesas.pdb

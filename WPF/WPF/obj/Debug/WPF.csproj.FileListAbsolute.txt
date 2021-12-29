@@ -1,0 +1,3 @@
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\estel\source\repos\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache

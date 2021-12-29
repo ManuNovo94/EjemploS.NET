@@ -1,0 +1,9 @@
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\bin\Debug\netstandard2.0\StandardValidarDni.deps.json
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\bin\Debug\netstandard2.0\StandardValidarDni.dll
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\bin\Debug\netstandard2.0\StandardValidarDni.pdb
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\obj\Debug\netstandard2.0\StandardValidarDni.csprojAssemblyReference.cache
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\obj\Debug\netstandard2.0\StandardValidarDni.AssemblyInfoInputs.cache
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\obj\Debug\netstandard2.0\StandardValidarDni.AssemblyInfo.cs
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\obj\Debug\netstandard2.0\StandardValidarDni.csproj.CoreCompileInputs.cache
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\obj\Debug\netstandard2.0\StandardValidarDni.dll
+E:\2º DAM\Desarrollo de Interfaces\proyectos\Visual Studio\T. 3\StandardValidarDni\obj\Debug\netstandard2.0\StandardValidarDni.pdb

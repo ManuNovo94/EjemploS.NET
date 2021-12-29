@@ -1,0 +1,7 @@
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\bin\Debug\EjerPruebas.exe.config
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\bin\Debug\EjerPruebas.exe
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\bin\Debug\EjerPruebas.pdb
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\obj\Debug\EjerPruebas.csproj.CoreCompileInputs.cache
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\obj\Debug\EjerPruebas.exe
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\obj\Debug\EjerPruebas.pdb
+C:\Users\realt\source\repos\EjerPruebas\EjerPruebas\obj\Debug\EjerPruebas.csprojAssemblyReference.cache
